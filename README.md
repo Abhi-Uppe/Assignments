@@ -1,4 +1,4 @@
-# NR26
+# Assignments
 ## Instructions to Clone
 * Go to your local NITKRacing Folder
 * `git clone https://github.com/Abhi-Uppe/NR26.git`
