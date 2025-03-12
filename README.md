@@ -1,7 +1,7 @@
 # NR26
 ## Instructions to Clone
 * Go to your local NITKRacing Folder
-* `git clone https://github.com/NITKRacing-Electric/Mech-NR25-26.git`
+* `git clone https://github.com/Abhi-Uppe/NR26.git`
 * `cd Mech-NR25-26/`
 * `git checkout <branch-name>`
 
