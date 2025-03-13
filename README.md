@@ -4,7 +4,7 @@ Make a Assignments Folder in Your laptops
 ## Instructions to Clone
 * Go to your local Assignments Folder
 * `git clone https://github.com/Abhi-Uppe/Assignments.git`
-* `cd Mech-NR25-26/`
+* `cd Assignments/`
 * `git checkout <branch-name>`
 
 ## Run these once after installing Git
