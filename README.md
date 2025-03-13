@@ -1,5 +1,6 @@
 # Assignments
-*Make a Assignments Folder in Your laptops 
+
+Make a Assignments Folder in Your laptops 
 ## Instructions to Clone
 * Go to your local Assignments Folder
 * `git clone https://github.com/Abhi-Uppe/Assignments.git`
