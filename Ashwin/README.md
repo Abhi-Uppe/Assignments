@@ -5,7 +5,7 @@ Make a Assignments Folder in Your laptops
 * Go to your local Assignments Folder
 * `git clone https://github.com/Abhi-Uppe/Assignments.git`
 * `cd Assignments/Ashwin/`
-* `git checkout <branch-name>`
+  
 
 ## Run these once after installing Git
 * `git config --global user.email “youremail@domain.com”`
